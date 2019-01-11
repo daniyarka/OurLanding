@@ -1,0 +1,63 @@
+/* 
+/* 
+/*  custom.css
+/*
+/*  If not using Gulp and Sass, add your custom CSS below then include it
+/*  in your page by adding a reference to assets/css/custom.css in the head of each page.
+/*
+*/
+
+.nav-item{
+    margin: auto 0px !important;
+}
+.nav-item a{
+    color: white !important;
+}
+#smallTextContact{
+    align-content: center !important;
+}
+#demo{
+    color: chocolate;
+}
+.icons{
+    font-size: 36px !important;
+}
+.step{
+    background-color: #02B875;
+}
+.step-circle.active {
+    background: teal !important; 
+}
+.flickity-page-dots .dot{
+    background: white;
+}
+.flickity-page-dots .is-selected{
+    background: #02B875;
+}
+li .card:hover{
+    background-color: #017e50 !important;
+}
+li .card{
+    background-color: #013220;
+}
+.icons-uslugi{
+    font-size: 3.5rem !important;
+}
+.plus-icon{
+    font-size: 3.5rem !important;
+}
+#price-custom-white{
+    background-color: #017e50
+}
+#price-custom-white h5{
+    color: white  !important;
+}
+#price-custom-white span{
+    color: white  !important;
+}
+.portfolio-green-card .card{
+    background-color: #017e50;
+}
+.portfolio-green-card .card p, h4{
+    color: white;
+}
